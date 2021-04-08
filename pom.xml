@@ -11,6 +11,7 @@
 	<artifactId>cos420-patient-app-2021</artifactId>
 
 	<properties>
+		<app.deploy.projectId></app.deploy.projectId>
 		<appengine.maven.plugin.version>2.4.0</appengine.maven.plugin.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
